@@ -1,0 +1,1811 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.14f1 (d0d1bb862f9d) revision 13685179'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.1165; Version 2009; 64bit' Language: 'en' Physical Memory: 32677 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.14f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Repositories/Sudoktris
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+61718
+Successfully changed project path to: C:/Repositories/Sudoktris
+C:/Repositories/Sudoktris
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 83.97 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.14f1 (d0d1bb862f9d)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.14f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Repositories/Sudoktris/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3070 (ID=0x2484)
+    Vendor:   
+    VRAM:     8043 MB
+    Driver:   30.0.14.7168
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.14f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.14f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.14f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56232
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.14f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.14f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.14f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.14f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.002699 seconds.
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 83.53 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.085 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1085ms)
+		BeginReloadAssembly (46ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (417ms)
+			LoadAssemblies (45ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (131ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (27ms)
+			SetupLoadedEditorAssemblies (195ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (84ms)
+				BeforeProcessingInitializeOnLoad (9ms)
+				ProcessInitializeOnLoadAttributes (72ms)
+				ProcessInitializeOnLoadMethodAttributes (24ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003814 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 70.72 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.958 seconds
+Domain Reload Profiling:
+	ReloadAssembly (958ms)
+		BeginReloadAssembly (115ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (13ms)
+		EndReloadAssembly (794ms)
+			LoadAssemblies (72ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (238ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (43ms)
+			SetupLoadedEditorAssemblies (344ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (71ms)
+				BeforeProcessingInitializeOnLoad (73ms)
+				ProcessInitializeOnLoadAttributes (180ms)
+				ProcessInitializeOnLoadMethodAttributes (9ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.89 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2560 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 117.3 MB.
+System memory in use after: 117.5 MB.
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 2989.
+Total: 2.331700 ms (FindLiveObjects: 0.196300 ms CreateObjectMapping: 0.083000 ms MarkObjects: 1.975000 ms  DeleteObjects: 0.076400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Rubik-VariableFont_wght SDF.asset
+  artifactKey: Guid(5fdb0b1374bae6940aae10f82cfe2471) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rubik-VariableFont_wght SDF.asset using Guid(5fdb0b1374bae6940aae10f82cfe2471) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aaf374bcd1853d5c2a5266961684c46f') in 0.112728 seconds 
+  Import took 0.116054 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.692452 seconds.
+  path: Assets/Rubik-VariableFont_wght SDF.asset
+  artifactKey: Guid(5fdb0b1374bae6940aae10f82cfe2471) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rubik-VariableFont_wght SDF.asset using Guid(5fdb0b1374bae6940aae10f82cfe2471) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aaf374bcd1853d5c2a5266961684c46f') in 0.020486 seconds 
+  Import took 0.024621 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 145.157750 seconds.
+  path: Assets/Editor
+  artifactKey: Guid(d98ad1674ee8d5040ad22d07feddcab5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Editor using Guid(d98ad1674ee8d5040ad22d07feddcab5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40fef55b648584d5cae54ceb68e57337') in 0.005332 seconds 
+  Import took 0.008767 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 482.779921 seconds.
+  path: Assets/Sprites/Sudoktris_Title_Sreen.png
+  artifactKey: Guid(4ce5104bee1414549adaeea898cc934f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sudoktris_Title_Sreen.png using Guid(4ce5104bee1414549adaeea898cc934f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db2ed11b3f5b26ead00b1221503c9a79') in 0.026649 seconds 
+  Import took 0.030708 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/Sprites/Sudoktris_Title_Sreen.psd
+  artifactKey: Guid(20cf7074c1417c847ac5ee9ae9b03f99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sudoktris_Title_Sreen.psd using Guid(20cf7074c1417c847ac5ee9ae9b03f99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f9ab331d7229640c1463a1e3f5cd88f') in 0.008179 seconds 
+  Import took 0.011146 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 120.535941 seconds.
+  path: Assets/Sprites/Sudoktris_Title_Sreen.psd
+  artifactKey: Guid(20cf7074c1417c847ac5ee9ae9b03f99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sudoktris_Title_Sreen.psd using Guid(20cf7074c1417c847ac5ee9ae9b03f99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77bbf5670478e57e43b2bcf9034819d0') in 0.014264 seconds 
+  Import took 0.017943 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004335 seconds.
+  path: Assets/Sprites/Sudoktris_Title_Sreen.png
+  artifactKey: Guid(4ce5104bee1414549adaeea898cc934f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sudoktris_Title_Sreen.png using Guid(4ce5104bee1414549adaeea898cc934f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6a929db8020dd301165ba15c1813154') in 0.010107 seconds 
+  Import took 0.013659 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 212.843275 seconds.
+  path: Assets/Sprites/Sudoktris_Title_Sreen.psd
+  artifactKey: Guid(20cf7074c1417c847ac5ee9ae9b03f99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sudoktris_Title_Sreen.psd using Guid(20cf7074c1417c847ac5ee9ae9b03f99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7b387912a89700650e6316ed4fba97f') in 0.012599 seconds 
+  Import took 0.016584 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002935 seconds.
+  path: Assets/Sprites/Sudoktris_Title_Sreen.png
+  artifactKey: Guid(4ce5104bee1414549adaeea898cc934f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sudoktris_Title_Sreen.png using Guid(4ce5104bee1414549adaeea898cc934f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ac45ab35ed8b6b0c1222df3b8eb12c3') in 0.009977 seconds 
+  Import took 0.013067 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 148.296695 seconds.
+  path: Assets/Sprites/Sudoktris_Title_Sreen.psd
+  artifactKey: Guid(20cf7074c1417c847ac5ee9ae9b03f99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sudoktris_Title_Sreen.psd using Guid(20cf7074c1417c847ac5ee9ae9b03f99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e100e481e07ddf6b9ca537b153c37f5') in 0.010582 seconds 
+  Import took 0.013876 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008630 seconds.
+  path: Assets/Sprites/Sudoktris_Title_Sreen.png
+  artifactKey: Guid(4ce5104bee1414549adaeea898cc934f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sudoktris_Title_Sreen.png using Guid(4ce5104bee1414549adaeea898cc934f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c23c73bb0ac96a59a0410ff9a9ed48e5') in 0.010840 seconds 
+  Import took 0.014091 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003366 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.88 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.019 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1020ms)
+		BeginReloadAssembly (154ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (42ms)
+		EndReloadAssembly (773ms)
+			LoadAssemblies (96ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (285ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (35ms)
+			SetupLoadedEditorAssemblies (284ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (87ms)
+				ProcessInitializeOnLoadAttributes (180ms)
+				ProcessInitializeOnLoadMethodAttributes (4ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.03 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2536 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 118.9 MB.
+System memory in use after: 119.1 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 3038.
+Total: 2.343300 ms (FindLiveObjects: 0.223500 ms CreateObjectMapping: 0.090700 ms MarkObjects: 2.010000 ms  DeleteObjects: 0.018000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 7.28 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 69.4 MB.
+System memory in use after: 69.6 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 3038.
+Total: 2.106900 ms (FindLiveObjects: 0.211300 ms CreateObjectMapping: 0.110900 ms MarkObjects: 1.768500 ms  DeleteObjects: 0.015400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 5.68 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 69.4 MB.
+System memory in use after: 69.6 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 3038.
+Total: 2.326600 ms (FindLiveObjects: 0.204300 ms CreateObjectMapping: 0.094900 ms MarkObjects: 2.010400 ms  DeleteObjects: 0.016100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 266.722658 seconds.
+  path: Assets/Sprites/Board.png
+  artifactKey: Guid(51e74a61e8524e24f85f6b4c7b5e250d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Board.png using Guid(51e74a61e8524e24f85f6b4c7b5e250d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e04c66e67569f503c03912ae74869ba') in 0.041830 seconds 
+  Import took 0.045347 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Sprites/Sudoktris_Title_Sreen.png
+  artifactKey: Guid(4ce5104bee1414549adaeea898cc934f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sudoktris_Title_Sreen.png using Guid(4ce5104bee1414549adaeea898cc934f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f067ab6fc66c98d589bcaab5dd58c93a') in 0.010690 seconds 
+  Import took 0.013626 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Sprites/Sudoktris_Title_Sreen.psd
+  artifactKey: Guid(20cf7074c1417c847ac5ee9ae9b03f99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sudoktris_Title_Sreen.psd using Guid(20cf7074c1417c847ac5ee9ae9b03f99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d7035f82964a69717e607783babbf5b') in 0.011286 seconds 
+  Import took 0.014289 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/Sprites/Sprite_Square.png
+  artifactKey: Guid(db2a2f0eb6f363046a6249201fa1e326) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sprite_Square.png using Guid(db2a2f0eb6f363046a6249201fa1e326) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e11d6e24ed5723b9eac401deee7fad7') in 0.009782 seconds 
+  Import took 0.012613 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 5.96 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 69.5 MB.
+System memory in use after: 69.7 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 3042.
+Total: 2.752200 ms (FindLiveObjects: 0.205500 ms CreateObjectMapping: 0.099400 ms MarkObjects: 2.431300 ms  DeleteObjects: 0.015100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 5.84 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 69.5 MB.
+System memory in use after: 69.7 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 3042.
+Total: 2.820700 ms (FindLiveObjects: 0.201900 ms CreateObjectMapping: 0.093700 ms MarkObjects: 2.509500 ms  DeleteObjects: 0.014600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 6.04 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 69.5 MB.
+System memory in use after: 69.7 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 3042.
+Total: 3.068700 ms (FindLiveObjects: 0.227500 ms CreateObjectMapping: 0.092100 ms MarkObjects: 2.734400 ms  DeleteObjects: 0.013800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1873.809016 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/XBoxOne/Dark_PNG/A-Button-Dark.png
+  artifactKey: Guid(3f7474c51667b4fca9e9f3b8c01f60a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/XBoxOne/Dark_PNG/A-Button-Dark.png using Guid(3f7474c51667b4fca9e9f3b8c01f60a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '869e3b66326e82a398992ae04760f71e') in 0.015946 seconds 
+  Import took 0.019502 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000149 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Demo/Sprites/Icons/Icons/UI/Sound/Alarm.png
+  artifactKey: Guid(3f858ce167bbe4dae9799c621bbe6c81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Demo/Sprites/Icons/Icons/UI/Sound/Alarm.png using Guid(3f858ce167bbe4dae9799c621bbe6c81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2eecc18a0b1a08d2fca49b9202dd678') in 0.017961 seconds 
+  Import took 0.021059 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/XBoxOne/White_PSD/Arrow-Left-Button-White.psd
+  artifactKey: Guid(5b3b653cb096e4e8f9c5aa474f3bc792) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/XBoxOne/White_PSD/Arrow-Left-Button-White.psd using Guid(5b3b653cb096e4e8f9c5aa474f3bc792) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d72046e33972564c86bf52dc70e00dd') in 0.013064 seconds 
+  Import took 0.015950 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PNG/Analytics.png
+  artifactKey: Guid(9c6d2cef2e3244baa98d84ed2147cfe5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PNG/Analytics.png using Guid(9c6d2cef2e3244baa98d84ed2147cfe5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77105ff95002585605fc5387a5a0ddfb') in 0.016979 seconds 
+  Import took 0.019904 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/Steam/Dark_PSD/A-Button-Green-Dark.psd
+  artifactKey: Guid(8327275c19e6e49fabd1b28020c90a44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/Steam/Dark_PSD/A-Button-Green-Dark.psd using Guid(8327275c19e6e49fabd1b28020c90a44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9699d5d54a5c7ccbec61314d7a78eaa3') in 0.012733 seconds 
+  Import took 0.015586 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PNG/Arrow Up (Curved).png
+  artifactKey: Guid(cd7ecb8dbecf94e989e00bbfa3b47286) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PNG/Arrow Up (Curved).png using Guid(cd7ecb8dbecf94e989e00bbfa3b47286) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e50f6ca8b306a1ba04c48d1e9f4567b4') in 0.010325 seconds 
+  Import took 0.013102 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/PC/White_PNG/Arrow-Left-Arrow-Button-White.png
+  artifactKey: Guid(6742252a2b2e74adebdcadbdfcc94759) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/PC/White_PNG/Arrow-Left-Arrow-Button-White.png using Guid(6742252a2b2e74adebdcadbdfcc94759) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e956ffbc354a0f9b0655b7fa3e43433f') in 0.011167 seconds 
+  Import took 0.013995 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/Steam/White_PSD/A-Button-Green-White.psd
+  artifactKey: Guid(179774750690e42848362932356e6d51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/Steam/White_PSD/A-Button-Green-White.psd using Guid(179774750690e42848362932356e6d51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa00e827096aea0a87ee040bfad50a40') in 0.018156 seconds 
+  Import took 0.021024 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/PC/Dark_PSD/Arrow-Right-Button-Dark.psd
+  artifactKey: Guid(188d994134c3c4be39d00e6115c62384) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/PC/Dark_PSD/Arrow-Right-Button-Dark.psd using Guid(188d994134c3c4be39d00e6115c62384) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a84094b561ee1c277ef5e75e72a0ca31') in 0.014537 seconds 
+  Import took 0.017387 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/PS4/White_PSD/Arrow-None-Button-White.psd
+  artifactKey: Guid(f9e109dc0387f4546bece65c98e1fec9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/PS4/White_PSD/Arrow-None-Button-White.psd using Guid(f9e109dc0387f4546bece65c98e1fec9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ceda5e3e04b39bb84609e338f26cdf7f') in 0.019419 seconds 
+  Import took 0.022356 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/PS4/White_PNG/A-Button-White.png
+  artifactKey: Guid(17ada082aec9b4fb2a6c4fd24d802be5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/PS4/White_PNG/A-Button-White.png using Guid(17ada082aec9b4fb2a6c4fd24d802be5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7ada83f9aae035c7a07b0c481470828') in 0.013281 seconds 
+  Import took 0.016241 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Demo/Sprites/Icons/Icons/UI/Arrows/Arrow - Curved - Up.png
+  artifactKey: Guid(e2d9ab18cfa474673b906be8c90b2f84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Demo/Sprites/Icons/Icons/UI/Arrows/Arrow - Curved - Up.png using Guid(e2d9ab18cfa474673b906be8c90b2f84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74d62d019afa3da5938393624fe3a42f') in 0.012114 seconds 
+  Import took 0.014943 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/XBoxOne/White_PSD/Arrow-None-Button-White.psd
+  artifactKey: Guid(fa1ec7853f5824acb953b381f6658991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/XBoxOne/White_PSD/Arrow-None-Button-White.psd using Guid(fa1ec7853f5824acb953b381f6658991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ce6bbde43036eb0c93965d99b29ae7f') in 0.012120 seconds 
+  Import took 0.015045 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Emojis/Filled/PNG/Angry.png
+  artifactKey: Guid(5d58e33f8c3024a4c968544728ccab60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Emojis/Filled/PNG/Angry.png using Guid(5d58e33f8c3024a4c968544728ccab60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cda8ad0b3de7653d10f3f9fb2a0a50a3') in 0.009400 seconds 
+  Import took 0.012375 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Emojis/Outline/PNG/Angry - Outline.png
+  artifactKey: Guid(fb2be7c08538e4162a6cd4e16214677b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Emojis/Outline/PNG/Angry - Outline.png using Guid(fb2be7c08538e4162a6cd4e16214677b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4c7cad96321a6071d3ed246158702e9') in 0.009400 seconds 
+  Import took 0.012476 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/XBoxOne/White_PSD/Arrow-Down-Button-White.psd
+  artifactKey: Guid(2109433d01c8143548b4f6b65661da23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/XBoxOne/White_PSD/Arrow-Down-Button-White.psd using Guid(2109433d01c8143548b4f6b65661da23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b215a460fb015c1c422367c1f49a23e9') in 0.010990 seconds 
+  Import took 0.013952 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PSD/Arrow Down (Short).psd
+  artifactKey: Guid(626172b7df4ff43d59e630ab6f359499) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PSD/Arrow Down (Short).psd using Guid(626172b7df4ff43d59e630ab6f359499) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63338570ef9b8980b547bb8f301d21da') in 0.009563 seconds 
+  Import took 0.012525 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/PS4/Dark_PSD/A-Button-Dark.psd
+  artifactKey: Guid(961b2f9f10d3e4448bb1ae32513e7de1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/PS4/Dark_PSD/A-Button-Dark.psd using Guid(961b2f9f10d3e4448bb1ae32513e7de1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dac2f6e0105126b5c4e6b590228f44e2') in 0.011033 seconds 
+  Import took 0.013933 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/PS4/White_PSD/A-Button-White.psd
+  artifactKey: Guid(91e4629b079084fd492d21e907c3e848) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/PS4/White_PSD/A-Button-White.psd using Guid(91e4629b079084fd492d21e907c3e848) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f65428f359d7376c9fe88eb8371dd955') in 0.009940 seconds 
+  Import took 0.012864 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/PC/Dark_PNG/Arrow-Left-Button-Dark.png
+  artifactKey: Guid(a727494586d5741ce94b82d323143cba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/PC/Dark_PNG/Arrow-Left-Button-Dark.png using Guid(a727494586d5741ce94b82d323143cba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6b3e274f9074faa5264daca5bf89f39') in 0.010077 seconds 
+  Import took 0.013000 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Demo/Sprites/Icons/Icons Circle/Arrow.png
+  artifactKey: Guid(4b4900e946ccc47b7a340d1df52d6729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Demo/Sprites/Icons/Icons Circle/Arrow.png using Guid(4b4900e946ccc47b7a340d1df52d6729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee87271fe13a9769ae7419ba4c067437') in 0.009706 seconds 
+  Import took 0.012605 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/Steam/Dark_PNG/A-Button-Green-Dark.png
+  artifactKey: Guid(de6f422d59f584aeca1d13da5684e3c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/Steam/Dark_PNG/A-Button-Green-Dark.png using Guid(de6f422d59f584aeca1d13da5684e3c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8f20da4151ac0925a2866db97b54e5c') in 0.009001 seconds 
+  Import took 0.011830 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Compass/PSD/Arrow.psd
+  artifactKey: Guid(e88344b9cc6284a75ba15d2512a16226) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Compass/PSD/Arrow.psd using Guid(e88344b9cc6284a75ba15d2512a16226) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ede20fc112f8fa3482da5d5da2ca4b80') in 0.010117 seconds 
+  Import took 0.012981 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PNG/Arrow Down (Short).png
+  artifactKey: Guid(0f2199fd9a14149deacbe7a0a80dc7f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PNG/Arrow Down (Short).png using Guid(0f2199fd9a14149deacbe7a0a80dc7f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ee59c4b87a3d889ff8c62f364b6588b') in 0.008433 seconds 
+  Import took 0.011246 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/PS4/Dark_PNG/A-Button-Dark.png
+  artifactKey: Guid(3d2fbb72bf39a4bd8bc3193f425af47c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/PS4/Dark_PNG/A-Button-Dark.png using Guid(3d2fbb72bf39a4bd8bc3193f425af47c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '521d44de3df42cf6df6e5598c05740e2') in 0.009743 seconds 
+  Import took 0.012638 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PSD/Arrow Left.psd
+  artifactKey: Guid(1198ab7bbc763446383da8a80067abd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PSD/Arrow Left.psd using Guid(1198ab7bbc763446383da8a80067abd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae6a213c3e5f3d8de997e9597f07145d') in 0.009728 seconds 
+  Import took 0.012560 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PNG/Arrow Up (Short).png
+  artifactKey: Guid(8a83e683dcc1a4486b54269eac59f3bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PNG/Arrow Up (Short).png using Guid(8a83e683dcc1a4486b54269eac59f3bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a7773c608becf7a0575418962c53455') in 0.009380 seconds 
+  Import took 0.012315 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PSD/Arrow Left (Short).psd
+  artifactKey: Guid(820cc632a16934ca48cbd3de67a0da74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PSD/Arrow Left (Short).psd using Guid(820cc632a16934ca48cbd3de67a0da74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4d3e57f562a6a69be74562ed6dca406') in 0.009481 seconds 
+  Import took 0.012366 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Demo/Sprites/Icons/Icons/UI/Arrows/Arrow Up (Short).png
+  artifactKey: Guid(3014147ed11e6423d8bfaca3fca772cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Demo/Sprites/Icons/Icons/UI/Arrows/Arrow Up (Short).png using Guid(3014147ed11e6423d8bfaca3fca772cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36a9535e596e4aabc9fdd0be23712271') in 0.009005 seconds 
+  Import took 0.011901 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/Steam/Dark_PSD/Arrow-Left-Button-Dark.psd
+  artifactKey: Guid(250396202a68143caba9c94fd8c83f77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/Steam/Dark_PSD/Arrow-Left-Button-Dark.psd using Guid(250396202a68143caba9c94fd8c83f77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a8d2a67b23712fbd27c9d69a98cd839') in 0.009002 seconds 
+  Import took 0.011888 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/XBoxOne/Dark_PNG/Arrow-Right-Button-Dark.png
+  artifactKey: Guid(a537d6f53619c4ae8b7ec8f4354743ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/XBoxOne/Dark_PNG/Arrow-Right-Button-Dark.png using Guid(a537d6f53619c4ae8b7ec8f4354743ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7faf281a3ec1265c92443c76a82d07cf') in 0.009367 seconds 
+  Import took 0.012262 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons Circles/PNG/Arrow Down .png
+  artifactKey: Guid(5a6b1aa73fa784f569a97e3b2e09d4d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons Circles/PNG/Arrow Down .png using Guid(5a6b1aa73fa784f569a97e3b2e09d4d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '403aa1a9abab110254483c53e3d57c80') in 0.009688 seconds 
+  Import took 0.012680 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons Circles/PSD/Arrow Up.psd
+  artifactKey: Guid(d3a555122ff7a4ed3a10a812cf59f3bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons Circles/PSD/Arrow Up.psd using Guid(d3a555122ff7a4ed3a10a812cf59f3bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f3f4ca8438deb3c59c963f2cf9baddf') in 0.009718 seconds 
+  Import took 0.012595 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons Circles/PSD/Arrow Down .psd
+  artifactKey: Guid(1883a1a16eaba401a9dd10af86987639) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons Circles/PSD/Arrow Down .psd using Guid(1883a1a16eaba401a9dd10af86987639) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45023427217ce2f8f8834117c3104383') in 0.009032 seconds 
+  Import took 0.011915 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/Steam/Dark_PSD/Arrow-Right-Button-Dark.psd
+  artifactKey: Guid(c2bafe81ea1c84b5bbe9aee7f05cc633) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/Steam/Dark_PSD/Arrow-Right-Button-Dark.psd using Guid(c2bafe81ea1c84b5bbe9aee7f05cc633) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4963e3d3df9016358cc51d8ee53a233') in 0.010192 seconds 
+  Import took 0.013069 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Demo/Sprites/Icons/Icons/Game/Magic/Ability.png
+  artifactKey: Guid(bca2805d481614b578faaa38817448b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Demo/Sprites/Icons/Icons/Game/Magic/Ability.png using Guid(bca2805d481614b578faaa38817448b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b977abc5bbba798bc7e2539335aa8d41') in 0.010100 seconds 
+  Import took 0.012981 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons Circles/PNG/Arrow.png
+  artifactKey: Guid(58a38b850a8714e7c951a5d1044b6b24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons Circles/PNG/Arrow.png using Guid(58a38b850a8714e7c951a5d1044b6b24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '190276a2eb3c479aa1d58f9992ea04a4') in 0.009394 seconds 
+  Import took 0.012295 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/PS4/White_PSD/Arrow-Left-Button-White.psd
+  artifactKey: Guid(2cfac1fdcfb3f4a93b20f9581b8d8980) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/PS4/White_PSD/Arrow-Left-Button-White.psd using Guid(2cfac1fdcfb3f4a93b20f9581b8d8980) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bf6fd4571cb169e2a038f620befb15c') in 0.009603 seconds 
+  Import took 0.012450 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PNG/Alarm.png
+  artifactKey: Guid(27ad5b8a701714ff389d1b6a0befe441) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PNG/Alarm.png using Guid(27ad5b8a701714ff389d1b6a0befe441) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be451bf51b48f381e6faaf4bafb714e3') in 0.008717 seconds 
+  Import took 0.011605 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/Steam/White_PNG/A-Button-Green-White.png
+  artifactKey: Guid(069bc1ba55041409d9da7e08adc1b3cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/Steam/White_PNG/A-Button-Green-White.png using Guid(069bc1ba55041409d9da7e08adc1b3cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '815945debd3b6c9a7d514e15573ececc') in 0.011715 seconds 
+  Import took 0.014765 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/XBoxOne/Dark_PSD/Arrow-Right-Button-Dark.psd
+  artifactKey: Guid(ef1bbbba4ec4342a492e122774c6753d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/XBoxOne/Dark_PSD/Arrow-Right-Button-Dark.psd using Guid(ef1bbbba4ec4342a492e122774c6753d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69ef7a26bec8a538f98e000a9d0628e8') in 0.009248 seconds 
+  Import took 0.012239 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/PS4/Dark_PNG/Arrow-Down-Button-Dark.png
+  artifactKey: Guid(4d576beb96ae1453da448b908b77a9d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/PS4/Dark_PNG/Arrow-Down-Button-Dark.png using Guid(4d576beb96ae1453da448b908b77a9d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd4aa7fc4e0a8038169897b0d5cc2b77') in 0.010040 seconds 
+  Import took 0.012873 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/PS4/White_PNG/Arrow-Down-Button-White.png
+  artifactKey: Guid(78c4a4c9a496048db8b04895b5b3e9fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/PS4/White_PNG/Arrow-Down-Button-White.png using Guid(78c4a4c9a496048db8b04895b5b3e9fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7e25ff366334cc2687e68c49b183ae5') in 0.011003 seconds 
+  Import took 0.013849 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Demo/Sprites/Icons/Icons/UI/Sound/Alarm Off.png
+  artifactKey: Guid(c66ae716a2f934ca288c1cb2cfd8ea0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Demo/Sprites/Icons/Icons/UI/Sound/Alarm Off.png using Guid(c66ae716a2f934ca288c1cb2cfd8ea0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e52e62c6d8c889116bd7e118ca3aab43') in 0.011401 seconds 
+  Import took 0.014362 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Demo/Sprites/Icons/Emojis/Filled/Angry.png
+  artifactKey: Guid(8cc852fbe75fe4af0852a6e1c1e01849) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Demo/Sprites/Icons/Emojis/Filled/Angry.png using Guid(8cc852fbe75fe4af0852a6e1c1e01849) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd00b66af6cfcfe6015443ce52c85dcab') in 0.009560 seconds 
+  Import took 0.012405 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PSD/Aim.psd
+  artifactKey: Guid(4f2dd82bcdbb24a5f9c3bdf06eef72e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PSD/Aim.psd using Guid(4f2dd82bcdbb24a5f9c3bdf06eef72e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afd4dd1401e618c525d0fd8b998b1ddb') in 0.009675 seconds 
+  Import took 0.012571 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PNG/Ability.png
+  artifactKey: Guid(8acfdb87041c143089569d446383a47d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PNG/Ability.png using Guid(8acfdb87041c143089569d446383a47d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f8a720f1a2667616722166f2d537392') in 0.009359 seconds 
+  Import took 0.012332 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/XBoxOne/Dark_PNG/Arrow-None-Dark.png
+  artifactKey: Guid(19182961c56864adc93cc146268ccf45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/XBoxOne/Dark_PNG/Arrow-None-Dark.png using Guid(19182961c56864adc93cc146268ccf45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13ce331349cafca1a02dfe40494654c6') in 0.009517 seconds 
+  Import took 0.012510 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/PC/White_PSD/Arrow-Left-Arrow-Button-White.psd
+  artifactKey: Guid(70eb7d53f527d4928bdfa409a5766f61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/PC/White_PSD/Arrow-Left-Arrow-Button-White.psd using Guid(70eb7d53f527d4928bdfa409a5766f61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '224fea5d0280cbceb798c96e133ffd69') in 0.010573 seconds 
+  Import took 0.013414 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Demo/Sprites/Icons/Icons/UI/Arrows/Arrow - Curved - Right.png
+  artifactKey: Guid(3a351c44fd50445beb3470e0dcac33c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Demo/Sprites/Icons/Icons/UI/Arrows/Arrow - Curved - Right.png using Guid(3a351c44fd50445beb3470e0dcac33c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd796cb54b381488fe4abbc1249f98330') in 0.010348 seconds 
+  Import took 0.013323 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PSD/Arrow Up.psd
+  artifactKey: Guid(bf27e4eca61f146b3a1cd43a7d7b5ebd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PSD/Arrow Up.psd using Guid(bf27e4eca61f146b3a1cd43a7d7b5ebd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4e453c6916b8aaccca72c1d231e6299') in 0.008864 seconds 
+  Import took 0.011793 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Demo/Sprites/Icons/Icons/UI/Arrows/Arrow Right (Short).png
+  artifactKey: Guid(d2aa1d14217b34d9dbebf74eb1d97e14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Demo/Sprites/Icons/Icons/UI/Arrows/Arrow Right (Short).png using Guid(d2aa1d14217b34d9dbebf74eb1d97e14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1750dc2e87db8e8b8174d2086c315737') in 0.008959 seconds 
+  Import took 0.011867 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PSD/Arrow Down.psd
+  artifactKey: Guid(4df39c0716fc84b0a9c1752094e516ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PSD/Arrow Down.psd using Guid(4df39c0716fc84b0a9c1752094e516ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3760f7bd53ad1ca91985087f56d9519e') in 0.009580 seconds 
+  Import took 0.012562 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PNG/Arrow Left (Short).png
+  artifactKey: Guid(c2d371d0cd4974308bb44c87ab85650e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PNG/Arrow Left (Short).png using Guid(c2d371d0cd4974308bb44c87ab85650e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac096f038a6b0f4350f4f1d8fc89f5fc') in 0.010881 seconds 
+  Import took 0.013824 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/XBoxOne/Dark_PSD/Arrow-Left-Button-Dark.psd
+  artifactKey: Guid(881f69bb9d9224315aef0f5e5ee5dd55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/XBoxOne/Dark_PSD/Arrow-Left-Button-Dark.psd using Guid(881f69bb9d9224315aef0f5e5ee5dd55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '436afeb262a461081c1e7be77cc83804') in 0.009372 seconds 
+  Import took 0.012310 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/Steam/White_PSD/Arrow-Right-Button-White.psd
+  artifactKey: Guid(f2f62f2ee76c5402abc130f26db80341) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/Steam/White_PSD/Arrow-Right-Button-White.psd using Guid(f2f62f2ee76c5402abc130f26db80341) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bda7b1d9da61bda4bd10ee99fdee8ad1') in 0.009102 seconds 
+  Import took 0.011978 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/XBoxOne/White_PNG/Arrow-Left-Button-White.png
+  artifactKey: Guid(c68827b9f2d1e4da18ccf05af38cb964) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/XBoxOne/White_PNG/Arrow-Left-Button-White.png using Guid(c68827b9f2d1e4da18ccf05af38cb964) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8f801978d622d5a08b30217b16ea32c') in 0.009414 seconds 
+  Import took 0.012379 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Emojis/Filled/PSD/Angry.psd
+  artifactKey: Guid(beb3fbb391e9341a083ed2007e0df418) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Emojis/Filled/PSD/Angry.psd using Guid(beb3fbb391e9341a083ed2007e0df418) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '412373484f7b8d3d28d2506192e1e480') in 0.009080 seconds 
+  Import took 0.012068 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/PS4/White_PNG/Arrow-Left-Button-White.png
+  artifactKey: Guid(9f00ea87846254e6d8487e6d814127c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/PS4/White_PNG/Arrow-Left-Button-White.png using Guid(9f00ea87846254e6d8487e6d814127c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '621c0ffaf5897f66b5f0b22175077864') in 0.009510 seconds 
+  Import took 0.012858 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/PS4/Dark_PSD/Arrow-Right-Button-Dark.psd
+  artifactKey: Guid(2a3de9f713f9749689f4f313f9834d96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/PS4/Dark_PSD/Arrow-Right-Button-Dark.psd using Guid(2a3de9f713f9749689f4f313f9834d96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52a3ab8d0fd5f9785fef4cba57557fd0') in 0.009637 seconds 
+  Import took 0.012487 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Demo/Sprites/Icons/Emojis/Outline/Angry.png
+  artifactKey: Guid(0c211ab54f2c74818a1c081849480986) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Demo/Sprites/Icons/Emojis/Outline/Angry.png using Guid(0c211ab54f2c74818a1c081849480986) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b730b8564ee9d367c0b28a2dc04410bf') in 0.011635 seconds 
+  Import took 0.014512 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/XBoxOne/Dark_PSD/Arrow-Down-Button-Dark.psd
+  artifactKey: Guid(d252bcad188d7447080fb7de56e4fc97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/XBoxOne/Dark_PSD/Arrow-Down-Button-Dark.psd using Guid(d252bcad188d7447080fb7de56e4fc97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a88b92159b50b967954614ec1e769f2') in 0.011103 seconds 
+  Import took 0.013969 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Mockups/Themes/Dark/PSD/Alert Popup.psd
+  artifactKey: Guid(eb29ef9635dc14681b42e1dced3ec01c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Mockups/Themes/Dark/PSD/Alert Popup.psd using Guid(eb29ef9635dc14681b42e1dced3ec01c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1beb4757caba977f045a77c46112954c') in 0.011089 seconds 
+  Import took 0.013986 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Demo/Sprites/Icons/Icons/UI/Arrows/Arrow Down (Short).png
+  artifactKey: Guid(1b5233c87740d4e54ba0dfe02d6cb384) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Demo/Sprites/Icons/Icons/UI/Arrows/Arrow Down (Short).png using Guid(1b5233c87740d4e54ba0dfe02d6cb384) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b218982aa4ad0174d4efa96627ee1d93') in 0.008819 seconds 
+  Import took 0.011820 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Demo/Sprites/Icons/Icons Circle/Arrow Left.png
+  artifactKey: Guid(93b4249c9e4794b5e831ad4c22b0a3df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Demo/Sprites/Icons/Icons Circle/Arrow Left.png using Guid(93b4249c9e4794b5e831ad4c22b0a3df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23990e91d7b0ab19f9e3ff8b2485054e') in 0.009100 seconds 
+  Import took 0.012008 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/XBoxOne/Dark_PNG/Arrow-Left-Button-Dark.png
+  artifactKey: Guid(7845d75b8743844f4b8a9b08207cc662) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/XBoxOne/Dark_PNG/Arrow-Left-Button-Dark.png using Guid(7845d75b8743844f4b8a9b08207cc662) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bb6c594be14551efac1ed4fe64ff64b') in 0.009179 seconds 
+  Import took 0.012060 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/PC/White_PSD/Arrow-Down-Button-White.psd
+  artifactKey: Guid(c77a11570353c41098431eff0cd932f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/PC/White_PSD/Arrow-Down-Button-White.psd using Guid(c77a11570353c41098431eff0cd932f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40d24de137fc87bd1b83d0506107fcb9') in 0.009915 seconds 
+  Import took 0.012799 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/Steam/White_PSD/Arrow-Left-Button-White.psd
+  artifactKey: Guid(0efbd324827494d41a725fefb8c3df60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/Steam/White_PSD/Arrow-Left-Button-White.psd using Guid(0efbd324827494d41a725fefb8c3df60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95bfcada5d08c5edcdd681dbfc03118c') in 0.008732 seconds 
+  Import took 0.011658 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PNG/Arrow Left.png
+  artifactKey: Guid(fdf1404a8ae794bb38c32d1f345790e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PNG/Arrow Left.png using Guid(fdf1404a8ae794bb38c32d1f345790e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c5ea66bc2d74f7efa84c93078d24aa8') in 0.008511 seconds 
+  Import took 0.011473 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PNG/Arrow Left (Curved).png
+  artifactKey: Guid(304de0b07a4d24c3e8b3fc2898a2536f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PNG/Arrow Left (Curved).png using Guid(304de0b07a4d24c3e8b3fc2898a2536f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b2ac2553f86ba799547f74a2621c386') in 0.010269 seconds 
+  Import took 0.013237 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/Steam/Dark_PSD/A-Button-Green.psd
+  artifactKey: Guid(2e5a18ad6692747e6bda320e4177af1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/Steam/Dark_PSD/A-Button-Green.psd using Guid(2e5a18ad6692747e6bda320e4177af1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68fb4d10273bd0b9bcfad26879a797c4') in 0.009975 seconds 
+  Import took 0.012962 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Demo/Sprites/Icons/Icons/UI/Arrows/Arrow Down.png
+  artifactKey: Guid(45bc64a033db44195b2aba542ee5cdc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Demo/Sprites/Icons/Icons/UI/Arrows/Arrow Down.png using Guid(45bc64a033db44195b2aba542ee5cdc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ca49c48b69e2b21a3192d8626207e84') in 0.008708 seconds 
+  Import took 0.011608 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/PC/White_PSD/Arrow-Right-Button-White.psd
+  artifactKey: Guid(3625f5370c31346638a3146d36ac01e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/PC/White_PSD/Arrow-Right-Button-White.psd using Guid(3625f5370c31346638a3146d36ac01e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '625b929020b1972eab0807ab7cea86c6') in 0.010638 seconds 
+  Import took 0.013512 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/PS4/Dark_PNG/Arrow-Left-Button-Dark.png
+  artifactKey: Guid(00a0da32b327f49118fac3414206cdf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/PS4/Dark_PNG/Arrow-Left-Button-Dark.png using Guid(00a0da32b327f49118fac3414206cdf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '590111c2c50bd7a7ae212e4100b61fae') in 0.009495 seconds 
+  Import took 0.012353 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PNG/Alarm Off.png
+  artifactKey: Guid(ddb67ead68a6a4a2a925c066670ca818) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PNG/Alarm Off.png using Guid(ddb67ead68a6a4a2a925c066670ca818) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0aab68e34349377fdd7581a47721261c') in 0.008922 seconds 
+  Import took 0.011820 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Emojis/Outline/PSD/Angry - Outline.psd
+  artifactKey: Guid(61f6203ea5458447a937e3a12c1e45c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Emojis/Outline/PSD/Angry - Outline.psd using Guid(61f6203ea5458447a937e3a12c1e45c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a6680d34a537d2aa3b39dcdb5c8b41d') in 0.009161 seconds 
+  Import took 0.012034 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/PC/White_PNG/Arrow-Down-Button-White.png
+  artifactKey: Guid(731922d901b414ffd97c75c45d846d82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/PC/White_PNG/Arrow-Down-Button-White.png using Guid(731922d901b414ffd97c75c45d846d82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42a779268ed2e7bb97846a90d596c170') in 0.009232 seconds 
+  Import took 0.012199 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Demo/Sprites/Icons/Icons/UI/Arrows/Arrow Left.png
+  artifactKey: Guid(a0b9c7dcdde0a455b97eba0620bf91fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Demo/Sprites/Icons/Icons/UI/Arrows/Arrow Left.png using Guid(a0b9c7dcdde0a455b97eba0620bf91fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b459d44fe14fe90c8ed3e78977a9a41') in 0.009141 seconds 
+  Import took 0.012050 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Demo/Sprites/Icons/Icons/UI/Arrows/Arrow Right.png
+  artifactKey: Guid(941d6eea63d9b463889b7a8c7736bc34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Demo/Sprites/Icons/Icons/UI/Arrows/Arrow Right.png using Guid(941d6eea63d9b463889b7a8c7736bc34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08433ad72dbe4c4de1c6be64cb3d797a') in 0.009660 seconds 
+  Import took 0.012576 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/XBoxOne/White_PNG/Arrow-None-Button-White.png
+  artifactKey: Guid(8807764c67d4d4c60a41b9c2290be657) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/XBoxOne/White_PNG/Arrow-None-Button-White.png using Guid(8807764c67d4d4c60a41b9c2290be657) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26076c1424c895e0ad0a71acedcc2615') in 0.009268 seconds 
+  Import took 0.012151 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/XBoxOne/Dark_PNG/AddressBar-Button-Dark.png
+  artifactKey: Guid(90150252d069042ebb8d5b66532b2ea8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/XBoxOne/Dark_PNG/AddressBar-Button-Dark.png using Guid(90150252d069042ebb8d5b66532b2ea8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2a43e260b74635f48693cea94f0c36d') in 0.010213 seconds 
+  Import took 0.013236 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Mockups/Themes/Light/PSD/Alert Popup.psd
+  artifactKey: Guid(40691ef3d4f0d48118bb1a2131a62936) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Mockups/Themes/Light/PSD/Alert Popup.psd using Guid(40691ef3d4f0d48118bb1a2131a62936) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc3f6bf719837e614daa8d6f067d57f0') in 0.009549 seconds 
+  Import took 0.012641 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Demo/Sprites/Icons/Icons/Game/Tools/Aim.png
+  artifactKey: Guid(9be4b981cff45442ea70499d83f511c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Demo/Sprites/Icons/Icons/Game/Tools/Aim.png using Guid(9be4b981cff45442ea70499d83f511c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'facabbf2f0e7498fa435ff6db464f9c7') in 0.009135 seconds 
+  Import took 0.012160 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Demo/Sprites/Icons/Icons Circle/Arrow Down .png
+  artifactKey: Guid(395422a92f101477e8f93ff7e84f8a88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Demo/Sprites/Icons/Icons Circle/Arrow Down .png using Guid(395422a92f101477e8f93ff7e84f8a88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13452d6fe6612ecce777e7842fe34694') in 0.008743 seconds 
+  Import took 0.011637 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PNG/Arrow Down.png
+  artifactKey: Guid(59ad4433a041849f7a3ad87acdedcacf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PNG/Arrow Down.png using Guid(59ad4433a041849f7a3ad87acdedcacf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b216eb18f27d25a6fe042c4ba0d52c35') in 0.008745 seconds 
+  Import took 0.011590 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PSD/Arrow Up (Short).psd
+  artifactKey: Guid(7bdbe5b3c17fe4b5eba502b6dca7223a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PSD/Arrow Up (Short).psd using Guid(7bdbe5b3c17fe4b5eba502b6dca7223a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '713113d80b5d0911e9adb5fc039938ce') in 0.010936 seconds 
+  Import took 0.013837 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/PS4/Dark_PSD/Arrow-Down-Button-Dark.psd
+  artifactKey: Guid(ef3b784dfa26e45dfa04532283c031a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/PS4/Dark_PSD/Arrow-Down-Button-Dark.psd using Guid(ef3b784dfa26e45dfa04532283c031a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78ad13319e01b83c28e109237bcfc8a3') in 0.009813 seconds 
+  Import took 0.012658 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Demo/Sprites/Icons/Icons/Game/Tools/Aim - Boder (Thin).png
+  artifactKey: Guid(0eac0e5007a404666b8b6852bf2cf7fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Demo/Sprites/Icons/Icons/Game/Tools/Aim - Boder (Thin).png using Guid(0eac0e5007a404666b8b6852bf2cf7fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56b651f118eaf3ee9462de110a28c9a2') in 0.009619 seconds 
+  Import took 0.012562 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons Circles/PNG/Arrow Up.png
+  artifactKey: Guid(4361a8c07d488442c89971114502a914) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons Circles/PNG/Arrow Up.png using Guid(4361a8c07d488442c89971114502a914) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '568fd62c7c4e5fcf44f83fa0c512e3af') in 0.009089 seconds 
+  Import took 0.012071 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PNG/Aim - Border.png
+  artifactKey: Guid(b01fb07d6a6aa447e8734acae434806e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PNG/Aim - Border.png using Guid(b01fb07d6a6aa447e8734acae434806e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c353667ef97c824976b5229642eee92') in 0.010809 seconds 
+  Import took 0.013788 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/XBoxOne/White_PSD/AddressBar-Button-White.psd
+  artifactKey: Guid(d4e8dd61a00fc438fb03591f12d2a1b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/XBoxOne/White_PSD/AddressBar-Button-White.psd using Guid(d4e8dd61a00fc438fb03591f12d2a1b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4ada964971c26eac63b895982bb1e65') in 0.010697 seconds 
+  Import took 0.013572 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PSD/Arrow Right (Curved).psd
+  artifactKey: Guid(d3f4daaef0aa64d8580ddde4dcb978d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PSD/Arrow Right (Curved).psd using Guid(d3f4daaef0aa64d8580ddde4dcb978d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eccb4482419dde3964653f18614859bf') in 0.009119 seconds 
+  Import took 0.012020 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/XBoxOne/White_PSD/A-Button-Green.psd
+  artifactKey: Guid(83cf95a75598948bcae5f932ef75e846) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/XBoxOne/White_PSD/A-Button-Green.psd using Guid(83cf95a75598948bcae5f932ef75e846) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a7f8a3769a438c15295299ff2e5b10d') in 0.011268 seconds 
+  Import took 0.014198 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/XBoxOne/White_PNG/Arrow-Down-Button-White.png
+  artifactKey: Guid(391cfac6d1fbb404986869af8a80e9af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/XBoxOne/White_PNG/Arrow-Down-Button-White.png using Guid(391cfac6d1fbb404986869af8a80e9af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da9da165f329f6c0e14f4edd9fea60fe') in 0.009500 seconds 
+  Import took 0.012331 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/Steam/Dark_PNG/Arrow-Right-Button-Dark.png
+  artifactKey: Guid(7ec52605003e04c4185f5b0d296285c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/Steam/Dark_PNG/Arrow-Right-Button-Dark.png using Guid(7ec52605003e04c4185f5b0d296285c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8f97fc4c40f74f6004a4a48b63372bf') in 0.008630 seconds 
+  Import took 0.011472 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/Steam/White_PSD/A-Button-White.psd
+  artifactKey: Guid(0b9f5a48cdcad4c1183321a1c43a1e56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/Steam/White_PSD/A-Button-White.psd using Guid(0b9f5a48cdcad4c1183321a1c43a1e56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2997c6179a9ad9f3fe3ef0d7025508d') in 0.011470 seconds 
+  Import took 0.014373 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PNG/Alert.png
+  artifactKey: Guid(203ed99c5a855469ca0d90764b39c0eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PNG/Alert.png using Guid(203ed99c5a855469ca0d90764b39c0eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01264c74023cedb0f6b7365e807464fe') in 0.009642 seconds 
+  Import took 0.012554 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PNG/Arrow Down (Curved).png
+  artifactKey: Guid(c094da5bb35f14995b56a383d960b897) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PNG/Arrow Down (Curved).png using Guid(c094da5bb35f14995b56a383d960b897) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b84257d97c2178219d45ee6a589f304e') in 0.009125 seconds 
+  Import took 0.012021 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/PC/Dark_PSD/Arrow-Left-Button-Dark.psd
+  artifactKey: Guid(e4662e1eff2dc4aa0868ef239f731839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/PC/Dark_PSD/Arrow-Left-Button-Dark.psd using Guid(e4662e1eff2dc4aa0868ef239f731839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55ab4976956eefde4e625a107a3290f5') in 0.009435 seconds 
+  Import took 0.012394 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/PC/Dark_PSD/Arrow-Down-Button-Dark.psd
+  artifactKey: Guid(1f039b0f979964e7c999248447f597bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/PC/Dark_PSD/Arrow-Down-Button-Dark.psd using Guid(1f039b0f979964e7c999248447f597bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2dcabcacee66e288c958f8f04e19b8b') in 0.009667 seconds 
+  Import took 0.012566 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/Steam/White_PNG/A-Button-White.png
+  artifactKey: Guid(3f0b9325434214847a40fa50b6c55d71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/Steam/White_PNG/A-Button-White.png using Guid(3f0b9325434214847a40fa50b6c55d71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a4b504e3d6227f13e6bb4cf33747389') in 0.011769 seconds 
+  Import took 0.014637 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PNG/Arrow Right.png
+  artifactKey: Guid(a639c0a3091ab42a4bf21b2e8f0b7e96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PNG/Arrow Right.png using Guid(a639c0a3091ab42a4bf21b2e8f0b7e96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67d5b771a92d2a264d9a68f7c87a15fe') in 0.008633 seconds 
+  Import took 0.011554 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Demo/Sprites/Icons/Icons/UI/Arrows/Arrow - Curved - Down.png
+  artifactKey: Guid(cb15a4991c8e54b6d8247d031ee689ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Demo/Sprites/Icons/Icons/UI/Arrows/Arrow - Curved - Down.png using Guid(cb15a4991c8e54b6d8247d031ee689ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e28da70d3cac4e7ceaa8d6e7c1da9eb') in 0.009474 seconds 
+  Import took 0.012436 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Demo/Sprites/Icons/Icons/Game/Tools/Aim - Border.png
+  artifactKey: Guid(d0dee6450818242c4a3e18671b62f117) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Demo/Sprites/Icons/Icons/Game/Tools/Aim - Border.png using Guid(d0dee6450818242c4a3e18671b62f117) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c6ccbe1c77a6f5c62c5d59c785be14e') in 0.008986 seconds 
+  Import took 0.011943 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PSD/Arrow Up (Curved).psd
+  artifactKey: Guid(1d15f49d5a94c44a0b92d82fe7354b2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PSD/Arrow Up (Curved).psd using Guid(1d15f49d5a94c44a0b92d82fe7354b2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ae472b05b2b89fba7fbe3576425b2c0') in 0.010187 seconds 
+  Import took 0.013193 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons Circles/PSD/Arrow.psd
+  artifactKey: Guid(92ed012648c1846208815807e0bc44bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons Circles/PSD/Arrow.psd using Guid(92ed012648c1846208815807e0bc44bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1139f190207099ae3300f623abd376da') in 0.008863 seconds 
+  Import took 0.011771 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Demo/Sprites/Icons/Icons/Game/Magic/Apple.png
+  artifactKey: Guid(a1a811b6b5ebd4f7184a1d28b54997f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Demo/Sprites/Icons/Icons/Game/Magic/Apple.png using Guid(a1a811b6b5ebd4f7184a1d28b54997f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e11f08a4f175c114914ef40d2e7bf68a') in 0.009691 seconds 
+  Import took 0.012675 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/PS4/White_PSD/Arrow-Down-Button-White.psd
+  artifactKey: Guid(82115ebd82e2f4c45847f08f11909b16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/PS4/White_PSD/Arrow-Down-Button-White.psd using Guid(82115ebd82e2f4c45847f08f11909b16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd03e3eab9901034777016a30ed7a7f17') in 0.009479 seconds 
+  Import took 0.012403 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/PS4/Dark_PNG/Arrow-Right-Button-Dark.png
+  artifactKey: Guid(4daf335e3834748e0b95c9b4cccbd197) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/PS4/Dark_PNG/Arrow-Right-Button-Dark.png using Guid(4daf335e3834748e0b95c9b4cccbd197) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '577bc68e75e6e0a7660a5ed3a0ebf009') in 0.009810 seconds 
+  Import took 0.012697 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PNG/Aim.png
+  artifactKey: Guid(a1d1e466cd42447d1b87e31f150c4a4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PNG/Aim.png using Guid(a1d1e466cd42447d1b87e31f150c4a4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e3a1d6d6faaf03f6db36537d49103f7') in 0.009263 seconds 
+  Import took 0.012239 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Demo/Sprites/Icons/Icons Circle/Arrow Up.png
+  artifactKey: Guid(5b7ad49d565ba49c8bd1ab2f6d520cff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Demo/Sprites/Icons/Icons Circle/Arrow Up.png using Guid(5b7ad49d565ba49c8bd1ab2f6d520cff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4be685eefd6172437c27884c6ca8e14') in 0.009328 seconds 
+  Import took 0.012424 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Mockups/Themes/Dark/PNG/Alert Popup.png
+  artifactKey: Guid(c6ebb3e0569f04d3584d4bae2609bf25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Mockups/Themes/Dark/PNG/Alert Popup.png using Guid(c6ebb3e0569f04d3584d4bae2609bf25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8741554f624ce5b2d4c57f98a8c24f6') in 0.009033 seconds 
+  Import took 0.011967 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/XBoxOne/Dark_PNG/Arrow-Down-Button-Dark.png
+  artifactKey: Guid(0a026827a2e93411bb120d35ab26364c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/XBoxOne/Dark_PNG/Arrow-Down-Button-Dark.png using Guid(0a026827a2e93411bb120d35ab26364c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd689dd40340bf496f929ce3be5ebf5c0') in 0.009157 seconds 
+  Import took 0.012130 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PSD/Alarm.psd
+  artifactKey: Guid(8267b1b25d45044e1bb8c225503f1b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PSD/Alarm.psd using Guid(8267b1b25d45044e1bb8c225503f1b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c5899140cee9c497999843c118750e0') in 0.009122 seconds 
+  Import took 0.011978 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PSD/Arrow Down (Curved).psd
+  artifactKey: Guid(1aab823cf395f49929bcb4cd7d8b073c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PSD/Arrow Down (Curved).psd using Guid(1aab823cf395f49929bcb4cd7d8b073c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2645b46c447aac3eeed67a31582ac63') in 0.008805 seconds 
+  Import took 0.011657 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PNG/Arrow Right (Short).png
+  artifactKey: Guid(6638badf5969d4f8599a9035d11db327) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PNG/Arrow Right (Short).png using Guid(6638badf5969d4f8599a9035d11db327) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54ad90975afcdd81b66e497969611c3a') in 0.008538 seconds 
+  Import took 0.011463 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons Circles/PSD/Arrow Left.psd
+  artifactKey: Guid(9d0629605a20241d0896069d389d60ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons Circles/PSD/Arrow Left.psd using Guid(9d0629605a20241d0896069d389d60ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f15aec5c0897e5d4a9a3526cc2ecc459') in 0.008854 seconds 
+  Import took 0.011657 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PSD/Apple.psd
+  artifactKey: Guid(39ef557fa0805480b82aa52ff4063e01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PSD/Apple.psd using Guid(39ef557fa0805480b82aa52ff4063e01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2011a0d8412dada4b33a872cae15527c') in 0.010239 seconds 
+  Import took 0.013142 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Demo/Sprites/Icons/Icons/Game/Other/Analytics.png
+  artifactKey: Guid(98b252dbb946f4d53a66767aca77cad4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Demo/Sprites/Icons/Icons/Game/Other/Analytics.png using Guid(98b252dbb946f4d53a66767aca77cad4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d13d8e7bdf07a208f0515fc96e3019d') in 0.009453 seconds 
+  Import took 0.012317 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PNG/Apple.png
+  artifactKey: Guid(19bda12cd98494bb1a5e91f64f61f67f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PNG/Apple.png using Guid(19bda12cd98494bb1a5e91f64f61f67f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1876d2d09f3c56b485e669da3a89a8dc') in 0.008831 seconds 
+  Import took 0.011712 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Mockups/Themes/Light/PNG/Alert Popup.png
+  artifactKey: Guid(35b8b5587687e438183ea2554f306cc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Mockups/Themes/Light/PNG/Alert Popup.png using Guid(35b8b5587687e438183ea2554f306cc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bd78cf334c6feef7ad95c8c2812d0aa') in 0.011915 seconds 
+  Import took 0.014920 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Demo/Sprites/Icons/Icons/UI/Arrows/Arrow - Curved - Left.png
+  artifactKey: Guid(f6b07c47e7df946c1b0f3a2609b3e591) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Demo/Sprites/Icons/Icons/UI/Arrows/Arrow - Curved - Left.png using Guid(f6b07c47e7df946c1b0f3a2609b3e591) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a9227fac014abd598533ec00d880acb') in 0.010090 seconds 
+  Import took 0.012998 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/XBoxOne/White_PNG/A-Button-Green.png
+  artifactKey: Guid(16360759e2578420b825206ef0938f92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/XBoxOne/White_PNG/A-Button-Green.png using Guid(16360759e2578420b825206ef0938f92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b11245be81588a37b676062e7789e38b') in 0.009061 seconds 
+  Import took 0.012087 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PSD/Alert.psd
+  artifactKey: Guid(10d6c890936404b96b55d87b4a4aaffc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PSD/Alert.psd using Guid(10d6c890936404b96b55d87b4a4aaffc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '879b3ee9369ae675f0b2b7a4dd55b4f7') in 0.008495 seconds 
+  Import took 0.011433 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Demo/Sprites/Icons/Icons/UI/Basic/Alert.png
+  artifactKey: Guid(6940123ff2c46402aaa410ce2c019a99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Demo/Sprites/Icons/Icons/UI/Basic/Alert.png using Guid(6940123ff2c46402aaa410ce2c019a99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0956fd583459a26e55eb23d50759e2f') in 0.009079 seconds 
+  Import took 0.011930 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/XBoxOne/White_PNG/AddressBar-Button-White.png
+  artifactKey: Guid(ee399c08545784759a03ad9072610520) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/XBoxOne/White_PNG/AddressBar-Button-White.png using Guid(ee399c08545784759a03ad9072610520) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f9300a030926aa850bc1105d45bda8a') in 0.009406 seconds 
+  Import took 0.012262 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PNG/Arrow Up.png
+  artifactKey: Guid(7c32541e89c9248518bf409f54c4349f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PNG/Arrow Up.png using Guid(7c32541e89c9248518bf409f54c4349f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abaf003c95bfa31f3aacc53ac4ec32b1') in 0.008831 seconds 
+  Import took 0.011690 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/Steam/Dark_PNG/A-Button-Green.png
+  artifactKey: Guid(f577db51c28144581808c765e4e5790c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/Steam/Dark_PNG/A-Button-Green.png using Guid(f577db51c28144581808c765e4e5790c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed7f1f8abbbe178ea84a9cb294d47ffc') in 0.009500 seconds 
+  Import took 0.012370 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PSD/Arrow Right.psd
+  artifactKey: Guid(c778471ccedb84b669da4083231138e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PSD/Arrow Right.psd using Guid(c778471ccedb84b669da4083231138e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a5be90d854f87eeb2e5315889e3c21d') in 0.009114 seconds 
+  Import took 0.012014 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Demo/Sprites/Icons/Icons/UI/Arrows/Arrow Left (Short).png
+  artifactKey: Guid(de071a38eb75d42588d938df79632a85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Demo/Sprites/Icons/Icons/UI/Arrows/Arrow Left (Short).png using Guid(de071a38eb75d42588d938df79632a85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ad80d4dcaee713c8c564aaabca4af2f') in 0.008582 seconds 
+  Import took 0.011469 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PNG/Arrow Right (Curved).png
+  artifactKey: Guid(97c70cf11df5f4a83a9dff0ac17fce7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PNG/Arrow Right (Curved).png using Guid(97c70cf11df5f4a83a9dff0ac17fce7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae3dfaabebf38d1a9d08fbf19f3ed3db') in 0.009123 seconds 
+  Import took 0.011980 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/PS4/Dark_PNG/Arrow-Button-Dark.png
+  artifactKey: Guid(565ecb8e6140747a6be68fddf5aa4cdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/PS4/Dark_PNG/Arrow-Button-Dark.png using Guid(565ecb8e6140747a6be68fddf5aa4cdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e4747076f2f97f61ed90edfe1d0bb40') in 0.011789 seconds 
+  Import took 0.014638 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/PC/Dark_PNG/Arrow-Down-Button-Dark.png
+  artifactKey: Guid(1ea0d7fc23d7a4a01ad92f4053dac7cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/PC/Dark_PNG/Arrow-Down-Button-Dark.png using Guid(1ea0d7fc23d7a4a01ad92f4053dac7cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12d772739d529e4f416d6db79125cb58') in 0.009974 seconds 
+  Import took 0.012847 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PSD/Aim - Border.psd
+  artifactKey: Guid(5d70be49556694d88b3aef41990f7020) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PSD/Aim - Border.psd using Guid(5d70be49556694d88b3aef41990f7020) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a35f1b7f5230411aa0b43e0f2ae83e5f') in 0.008735 seconds 
+  Import took 0.012074 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/XBoxOne/Dark_PSD/AddressBar-Button-Dark.psd
+  artifactKey: Guid(171ea51ce0b7d423aac1d1299e03330a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/XBoxOne/Dark_PSD/AddressBar-Button-Dark.psd using Guid(171ea51ce0b7d423aac1d1299e03330a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e56d6c2679b6d6f8b869dc8222591596') in 0.011272 seconds 
+  Import took 0.014489 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PNG/Analytics - Circles.png
+  artifactKey: Guid(9824b653844544ccba60c2281e3958bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PNG/Analytics - Circles.png using Guid(9824b653844544ccba60c2281e3958bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '972e362fa4b3c6e7929836fe1ce8576a') in 0.009440 seconds 
+  Import took 0.012358 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/PC/Dark_PNG/Arrow-Right-Button-Dark.png
+  artifactKey: Guid(ab00a2460325341bab502a27f2c9b100) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/PC/Dark_PNG/Arrow-Right-Button-Dark.png using Guid(ab00a2460325341bab502a27f2c9b100) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c646a64e814c5d667164429fe9015f04') in 0.014642 seconds 
+  Import took 0.017501 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/PS4/White_PNG/Arrow-None-Button-White.png
+  artifactKey: Guid(a994ca810a2de46da90aaa25d25c2a80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/PS4/White_PNG/Arrow-None-Button-White.png using Guid(a994ca810a2de46da90aaa25d25c2a80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fabe631762d1697f447f4d97c401878f') in 0.010339 seconds 
+  Import took 0.013306 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PSD/Arrow Right (Short).psd
+  artifactKey: Guid(1a4f55fb9db4242478a40ecb2eeeb5ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PSD/Arrow Right (Short).psd using Guid(1a4f55fb9db4242478a40ecb2eeeb5ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8015d912a52c8d448cfca106d86073c') in 0.009739 seconds 
+  Import took 0.012642 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/XBoxOne/Dark_PSD/A-Button-Dark.psd
+  artifactKey: Guid(c5ef2389689494b25a24e9c194fef71d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/XBoxOne/Dark_PSD/A-Button-Dark.psd using Guid(c5ef2389689494b25a24e9c194fef71d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70ba896e5ba4fedca1ec2c6753783cac') in 0.009193 seconds 
+  Import took 0.012077 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Demo/Sprites/Icons/Icons/UI/Compass/Arrow.png
+  artifactKey: Guid(8707e807552c2406eb2db3dc14a0be77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Demo/Sprites/Icons/Icons/UI/Compass/Arrow.png using Guid(8707e807552c2406eb2db3dc14a0be77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1acad09bc39efbee7724444bddb48ea3') in 0.008150 seconds 
+  Import took 0.011044 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PSD/Arrow Left (Curved).psd
+  artifactKey: Guid(3edb2566edb1f4702940326bdb7131c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PSD/Arrow Left (Curved).psd using Guid(3edb2566edb1f4702940326bdb7131c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96b1ee125c122308d82704f53465df29') in 0.008912 seconds 
+  Import took 0.011844 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/Steam/White_PNG/Arrow-Left-Button-White.png
+  artifactKey: Guid(9bcb0a4b11c15452e80fc0c7cb5ca39a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/Steam/White_PNG/Arrow-Left-Button-White.png using Guid(9bcb0a4b11c15452e80fc0c7cb5ca39a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '428acc663b263ad2bba62d1e76028b49') in 0.008596 seconds 
+  Import took 0.011417 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PSD/Ability.psd
+  artifactKey: Guid(76b79a37fa38d42868fa68c17ab29b0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PSD/Ability.psd using Guid(76b79a37fa38d42868fa68c17ab29b0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15119ad6e4a6b1356a1673d1dab26349') in 0.009282 seconds 
+  Import took 0.012170 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PSD/Alarm Off.psd
+  artifactKey: Guid(1c9cec92063ba4410b9fc3ed17bde140) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PSD/Alarm Off.psd using Guid(1c9cec92063ba4410b9fc3ed17bde140) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24eb569b0571864f82c4c03ea3394039') in 0.009193 seconds 
+  Import took 0.012135 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PSD/Analytics - Circles.psd
+  artifactKey: Guid(c65f617b0962e4f49a61423e98651b91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PSD/Analytics - Circles.psd using Guid(c65f617b0962e4f49a61423e98651b91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7661454cd7526ce1a6c8e26f81bc4d2c') in 0.008424 seconds 
+  Import took 0.011359 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/Steam/Dark_PNG/Arrow-Left-Button-Dark.png
+  artifactKey: Guid(433d1d56412f84c14b4f83d2c508a878) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/Steam/Dark_PNG/Arrow-Left-Button-Dark.png using Guid(433d1d56412f84c14b4f83d2c508a878) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a95dca60421dbdd27bbf54f35bc8c26') in 0.009302 seconds 
+  Import took 0.012152 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/PS4/Dark_PSD/Arrow-Left-Button-Dark.psd
+  artifactKey: Guid(dde1bd8313fa243ee991ca4635841f35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/PS4/Dark_PSD/Arrow-Left-Button-Dark.psd using Guid(dde1bd8313fa243ee991ca4635841f35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '876a468b7a3016e2c589d1285f660cc3') in 0.010241 seconds 
+  Import took 0.013200 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons Circles/PNG/Arrow Left.png
+  artifactKey: Guid(c96932d609651410a81766d62e4dbc34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons Circles/PNG/Arrow Left.png using Guid(c96932d609651410a81766d62e4dbc34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7acefc9916926b4d887dfedfeb1915e7') in 0.008616 seconds 
+  Import took 0.011526 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PSD/Analytics.psd
+  artifactKey: Guid(dd0999162424d4383a341944ec6fe785) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons/PSD/Analytics.psd using Guid(dd0999162424d4383a341944ec6fe785) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2bbd188a1cf4bf35e4ed660e3d7d7ce') in 0.008897 seconds 
+  Import took 0.011820 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Demo/Sprites/Icons/Icons/UI/Arrows/Arrow Up.png
+  artifactKey: Guid(73d54e90a14994677a7a507778e4d05f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Demo/Sprites/Icons/Icons/UI/Arrows/Arrow Up.png using Guid(73d54e90a14994677a7a507778e4d05f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efead34bc02b39a9a76c5fb50828fdd9') in 0.009343 seconds 
+  Import took 0.012252 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/PS4/Dark_PSD/Arrow-Button-Dark.psd
+  artifactKey: Guid(030aa0eda6238407f8acf8df32edd6dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/PS4/Dark_PSD/Arrow-Button-Dark.psd using Guid(030aa0eda6238407f8acf8df32edd6dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd22cb770838874d52bbe1852d7db2224') in 0.009673 seconds 
+  Import took 0.012636 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons Circles/PNG/Arrow Left.png
+  artifactKey: Guid(c96932d609651410a81766d62e4dbc34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Icons/Icons Circles/PNG/Arrow Left.png using Guid(c96932d609651410a81766d62e4dbc34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7acefc9916926b4d887dfedfeb1915e7') in 0.006566 seconds 
+  Import took 0.009368 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/XBoxOne/Dark_PSD/Arrow-None-Dark.psd
+  artifactKey: Guid(25bc36177677d410aa4b050fd57d393c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/XBoxOne/Dark_PSD/Arrow-None-Dark.psd using Guid(25bc36177677d410aa4b050fd57d393c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e591a33a89278c677723d111117a3b2') in 0.010112 seconds 
+  Import took 0.012984 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011396 seconds.
+  path: Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/PS4/Dark_PSD/Arrow-Button-Dark.psd
+  artifactKey: Guid(030aa0eda6238407f8acf8df32edd6dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/GUIPack-Clean&Minimalist/Sources/Game Controller/Game Controller/PS4/Dark_PSD/Arrow-Button-Dark.psd using Guid(030aa0eda6238407f8acf8df32edd6dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd22cb770838874d52bbe1852d7db2224') in 0.009184 seconds 
+  Import took 0.012343 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 5.97 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 69.9 MB.
+System memory in use after: 70.1 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 3050.
+Total: 2.894700 ms (FindLiveObjects: 0.221900 ms CreateObjectMapping: 0.108500 ms MarkObjects: 2.547500 ms  DeleteObjects: 0.016100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 935.538762 seconds.
+  path: Assets/Scripts/DevPreload.cs
+  artifactKey: Guid(66758a7378ad4ed29ed688e479a027dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/DevPreload.cs using Guid(66758a7378ad4ed29ed688e479a027dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '983e1a4549c48d9053911258484a2bd2') in 0.015085 seconds 
+  Import took 0.019387 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003451 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.84 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.870 seconds
+Domain Reload Profiling:
+	ReloadAssembly (870ms)
+		BeginReloadAssembly (109ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (36ms)
+		EndReloadAssembly (712ms)
+			LoadAssemblies (72ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (240ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (34ms)
+			SetupLoadedEditorAssemblies (270ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (84ms)
+				ProcessInitializeOnLoadAttributes (169ms)
+				ProcessInitializeOnLoadMethodAttributes (4ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (9ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.85 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2536 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 119.2 MB.
+System memory in use after: 119.4 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 3054.
+Total: 1.994800 ms (FindLiveObjects: 0.175800 ms CreateObjectMapping: 0.083800 ms MarkObjects: 1.718500 ms  DeleteObjects: 0.016100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003350 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.85 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.839 seconds
+Domain Reload Profiling:
+	ReloadAssembly (840ms)
+		BeginReloadAssembly (102ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (27ms)
+		EndReloadAssembly (689ms)
+			LoadAssemblies (73ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (230ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (35ms)
+			SetupLoadedEditorAssemblies (259ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (81ms)
+				ProcessInitializeOnLoadAttributes (162ms)
+				ProcessInitializeOnLoadMethodAttributes (4ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.85 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2536 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 119.2 MB.
+System memory in use after: 119.4 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 3058.
+Total: 1.962700 ms (FindLiveObjects: 0.191100 ms CreateObjectMapping: 0.096300 ms MarkObjects: 1.653300 ms  DeleteObjects: 0.021200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

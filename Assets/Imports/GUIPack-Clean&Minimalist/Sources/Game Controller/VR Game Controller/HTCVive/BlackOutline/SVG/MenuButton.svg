@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 250 250" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-125,-229)">
+        <g transform="matrix(4.16667,0,0,4.16667,0,0)">
+            <g id="MenuButton" transform="matrix(2.374,0,0,2.374,-1212.74,-294.425)">
+                <g transform="matrix(0.350049,0,0,0.350049,377.889,31.4408)">
+                    <circle cx="452.014" cy="366.762" r="30.634" style="fill:none;stroke:black;stroke-width:3.21px;"/>
+                </g>
+                <g transform="matrix(0.350049,0,0,0.350049,378.728,30.7309)">
+                    <path d="M441.357,363.326L457.878,363.326" style="fill:none;stroke:black;stroke-width:3.33px;"/>
+                    <g transform="matrix(1,0,0,1,0,5.46416)">
+                        <path d="M441.357,363.326L457.878,363.326" style="fill:none;stroke:black;stroke-width:3.33px;"/>
+                    </g>
+                    <g transform="matrix(1,0,0,1,0,10.9283)">
+                        <path d="M441.357,363.326L457.878,363.326" style="fill:none;stroke:black;stroke-width:3.33px;"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

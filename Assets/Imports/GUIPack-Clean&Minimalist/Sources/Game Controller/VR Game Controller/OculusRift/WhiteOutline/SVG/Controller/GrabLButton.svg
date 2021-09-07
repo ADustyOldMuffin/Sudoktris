@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 260 169" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-95,-141)">
+        <g transform="matrix(3.33333,0,0,3.33333,25,-58.3333)">
+            <g id="GrabLButton" transform="matrix(1,0,0,1,-391.093,-1229.63)">
+                <g transform="matrix(0.96738,0,0,1,15.5509,2.19709)">
+                    <path d="M483.91,1300.45C483.91,1295.5 479.762,1291.49 474.653,1291.49L438.13,1291.49C426.218,1291.49 416.547,1300.85 416.547,1312.37L416.547,1315.51C416.547,1325.38 424.822,1333.38 435.015,1333.38L474.653,1333.38C479.762,1333.38 483.91,1329.37 483.91,1324.42L483.91,1300.45Z" style="fill:none;stroke:white;stroke-width:1.9px;"/>
+                </g>
+                <g transform="matrix(0.734384,0,0,0.759147,120.453,318.301)">
+                    <path d="M483.91,1300.45C483.91,1295.5 479.762,1291.49 474.653,1291.49L438.13,1291.49C426.218,1291.49 416.547,1300.85 416.547,1312.37L416.547,1315.51C416.547,1325.38 424.822,1333.38 435.015,1333.38L474.653,1333.38C479.762,1333.38 483.91,1329.37 483.91,1324.42L483.91,1300.45Z" style="fill:none;stroke:white;stroke-width:1.79px;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

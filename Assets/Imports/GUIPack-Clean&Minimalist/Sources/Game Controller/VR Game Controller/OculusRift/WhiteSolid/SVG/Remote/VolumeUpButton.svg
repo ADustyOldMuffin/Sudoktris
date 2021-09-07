@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-125,-125)">
+        <g transform="matrix(3.33333,0,0,3.33333,25,-58.3333)">
+            <g id="VolumeUpButton" transform="matrix(1.13627,0,0,1.13627,-3656.57,-2286.36)">
+                <path d="M3274.34,2071.16C3275.16,2071.16 3275.82,2071.82 3275.82,2072.63L3275.82,2082.01L3285.19,2082.01C3286.01,2082.01 3286.67,2082.67 3286.67,2083.48L3286.67,2090.46C3286.67,2091.27 3286.01,2091.93 3285.19,2091.93L3275.82,2091.93L3275.82,2101.31C3275.82,2102.12 3275.16,2102.78 3274.34,2102.78L3267.37,2102.78C3266.55,2102.78 3265.89,2102.12 3265.89,2101.31L3265.89,2091.93L3256.52,2091.93C3255.7,2091.93 3255.04,2091.27 3255.04,2090.46L3255.04,2083.48C3255.04,2082.67 3255.7,2082.01 3256.52,2082.01L3265.89,2082.01L3265.89,2072.63C3265.89,2071.82 3266.55,2071.16 3267.37,2071.16L3274.34,2071.16Z" style="fill:white;stroke:rgb(59,59,59);stroke-width:1.64px;"/>
+            </g>
+        </g>
+    </g>
+</svg>

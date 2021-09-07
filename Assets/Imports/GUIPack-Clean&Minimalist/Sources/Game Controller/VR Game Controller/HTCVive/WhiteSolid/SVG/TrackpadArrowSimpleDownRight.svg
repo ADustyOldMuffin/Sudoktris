@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 400 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g transform="matrix(1,0,0,1,-50,-154)">
+        <g transform="matrix(4.16667,0,0,4.16667,0,0)">
+            <g transform="matrix(1,0,0,1,-2005.43,-165.74)">
+                <g id="TrackpadArrowSimpleDownRight">
+                    <path id="Trackpad" d="M2065.43,208.19C2041.94,208.19 2022.88,227.256 2022.88,250.74C2022.88,274.224 2041.94,293.29 2065.43,293.29C2088.91,293.29 2107.98,274.224 2107.98,250.74C2107.98,227.256 2088.91,208.19 2065.43,208.19ZM2078.94,273.087L2087.78,273.09L2087.78,264.248C2087.78,263.585 2088.31,263.048 2088.98,263.049C2089.64,263.049 2090.18,263.586 2090.18,264.25L2090.18,274.256C2090.18,274.596 2090.04,274.902 2089.81,275.12C2089.59,275.348 2089.29,275.491 2088.95,275.491L2078.94,275.488C2078.28,275.487 2077.74,274.95 2077.74,274.287C2077.74,273.624 2078.28,273.087 2078.94,273.087Z" style="fill:white;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

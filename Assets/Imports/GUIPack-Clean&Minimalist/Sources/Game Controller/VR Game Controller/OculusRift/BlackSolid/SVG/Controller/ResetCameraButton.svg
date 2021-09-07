@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 350 86" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-50,-182)">
+        <g transform="matrix(3.33333,0,0,3.33333,25,-58.3333)">
+            <g id="ResetCameraButton" transform="matrix(-1.13627,0,0,1.19082,1879.72,-364.25)">
+                <path d="M1616.65,367.704C1629.53,367.704 1640.58,375.604 1645.21,386.818C1631.12,383.071 1616.31,381.074 1601.05,381.074C1586.1,381.074 1571.59,382.99 1557.76,386.59C1562.45,375.497 1573.43,367.704 1586.23,367.704L1616.65,367.704Z" style="fill:rgb(59,59,59);stroke:rgb(59,59,59);stroke-width:1.6px;"/>
+            </g>
+        </g>
+    </g>
+</svg>

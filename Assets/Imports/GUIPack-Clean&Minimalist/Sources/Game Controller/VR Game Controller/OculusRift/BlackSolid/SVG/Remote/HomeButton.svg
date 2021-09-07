@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 200 121" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-125,-165)">
+        <g transform="matrix(3.33333,0,0,3.33333,25,-58.3333)">
+            <g transform="matrix(1,0,0,1,-978.391,-1120.83)">
+                <g id="HomeButton">
+                    <path d="M1049.27,1189.69C1058.17,1189.69 1065.4,1196.92 1065.4,1205.83C1065.4,1214.73 1058.17,1221.96 1049.27,1221.96L1027.51,1221.96C1018.61,1221.96 1011.38,1214.73 1011.38,1205.83C1011.38,1196.92 1018.61,1189.69 1027.51,1189.69L1049.27,1189.69ZM1048.73,1200.23L1028.06,1200.23C1024.97,1200.23 1022.46,1202.74 1022.46,1205.83C1022.46,1208.91 1024.97,1211.42 1028.06,1211.42L1048.73,1211.42C1051.82,1211.42 1054.32,1208.91 1054.32,1205.83C1054.32,1202.74 1051.82,1200.23 1048.73,1200.23Z" style="fill:rgb(59,59,59);stroke:rgb(59,59,59);stroke-width:1.87px;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

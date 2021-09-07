@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="Crown" transform="matrix(19.755,0,0,27.9067,-6874.32,-6135.37)">
+        <g transform="matrix(0.327232,0,0,0.231645,-143.209,-181.137)">
+            <circle cx="1507.8" cy="1756.99" r="5.737" style="fill:white;"/>
+        </g>
+        <g transform="matrix(0.327232,0,0,0.231645,-121.718,-181.137)">
+            <circle cx="1507.8" cy="1756.99" r="5.737" style="fill:white;"/>
+        </g>
+        <g transform="matrix(0.327232,0,0,0.231645,-132.375,-183.614)">
+            <circle cx="1507.8" cy="1756.99" r="5.737" style="fill:white;"/>
+        </g>
+        <g transform="matrix(0.294604,0,0,0.231698,-91.7325,-180.689)">
+            <path d="M1560.07,1787.83L1513.61,1787.83L1513.61,1794.53C1513.61,1796.66 1515.53,1798.4 1517.91,1798.4C1526.76,1798.4 1546.92,1798.4 1555.77,1798.4C1558.15,1798.4 1560.07,1796.66 1560.07,1794.53C1560.07,1791.51 1560.07,1787.83 1560.07,1787.83Z" style="fill:white;"/>
+        </g>
+        <g transform="matrix(0.327232,0,0,0.231645,-177.888,-181.018)">
+            <path d="M1657.86,1766.52L1679.99,1756L1667.8,1785.63L1625.97,1785.63L1613.78,1756L1635.91,1766.52L1646.89,1748.2L1657.86,1766.52Z" style="fill:white;"/>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 200 121" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-125,-165)">
+        <g transform="matrix(3.33333,0,0,3.33333,25,-58.3333)">
+            <g id="HomeButton" transform="matrix(1.75219,0,0,1.75219,-4612.02,-238.81)">
+                <g transform="matrix(0.658883,0,0,0.634628,551.978,-1173.86)">
+                    <path d="M3232.49,2140.89C3232.49,2132.88 3226.23,2126.38 3218.51,2126.38L3199.67,2126.38C3191.96,2126.38 3185.7,2132.88 3185.7,2140.89C3185.7,2148.89 3191.96,2155.4 3199.67,2155.4L3218.51,2155.4C3226.23,2155.4 3232.49,2148.89 3232.49,2140.89Z" style="fill:none;stroke:white;stroke-width:1.65px;"/>
+                </g>
+                <g transform="matrix(0.388632,0,0,0.220185,1419.24,-286.588)">
+                    <path d="M3232.49,2140.89C3232.49,2132.88 3228.81,2126.38 3224.27,2126.38L3193.91,2126.38C3189.38,2126.38 3185.7,2132.88 3185.7,2140.89C3185.7,2148.89 3189.38,2155.4 3193.91,2155.4L3224.27,2155.4C3228.81,2155.4 3232.49,2148.89 3232.49,2140.89Z" style="fill:none;stroke:white;stroke-width:3.37px;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

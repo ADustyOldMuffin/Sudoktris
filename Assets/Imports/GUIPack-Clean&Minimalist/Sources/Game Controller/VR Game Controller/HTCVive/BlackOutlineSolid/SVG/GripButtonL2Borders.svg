@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 300 650" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-100,-29)">
+        <g transform="matrix(4.16667,0,0,4.16667,-4.44089e-13,32.4326)">
+            <g id="GripButtonL2Borders" transform="matrix(2.374,0,0,2.374,-1200.84,-509.096)">
+                <g transform="matrix(0.342668,0,1.73472e-18,0.365807,128.937,-34.5316)">
+                    <path d="M1210.79,720.591C1210.79,701.383 1194.14,685.788 1173.64,685.788C1153.13,685.788 1136.48,701.383 1136.48,720.591L1136.48,818.493C1136.48,837.702 1153.13,853.296 1173.64,853.296C1194.14,853.296 1210.79,837.702 1210.79,818.493L1210.79,720.591Z" style="fill:rgb(44,44,44);stroke:white;stroke-width:3.24px;"/>
+                </g>
+                <g transform="matrix(0.282358,0,0,0.327533,199.718,-5.07839)">
+                    <path d="M1210.79,717.817C1210.79,700.14 1194.14,685.788 1173.64,685.788C1153.13,685.788 1136.48,700.14 1136.48,717.817L1136.48,821.267C1136.48,838.945 1153.13,853.296 1173.64,853.296C1194.14,853.296 1210.79,838.945 1210.79,821.267L1210.79,717.817Z" style="fill:none;stroke:white;stroke-width:2.25px;"/>
+                </g>
+                <g transform="matrix(0.965831,0,0,0.965831,-365.568,22.6999)">
+                    <text x="923.954px" y="237.711px" style="font-family:'Vegur-Bold', 'Vegur';font-weight:700;font-size:16px;fill:white;">L</text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

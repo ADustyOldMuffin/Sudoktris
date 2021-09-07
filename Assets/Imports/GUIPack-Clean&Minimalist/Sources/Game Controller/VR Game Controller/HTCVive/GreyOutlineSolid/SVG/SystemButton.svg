@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 250 250" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-125,-229)">
+        <g transform="matrix(4.16667,0,0,4.16667,0,0)">
+            <g id="SystemButton" transform="matrix(2.374,0,0,2.374,-1210.08,-367.029)">
+                <g transform="matrix(0.350049,0,0,0.350049,376.768,62.0238)">
+                    <circle cx="452.014" cy="366.762" r="30.634" style="fill:rgb(199,199,199);stroke:black;stroke-width:3.21px;"/>
+                </g>
+                <g transform="matrix(0.350049,0,0,0.350049,377.758,-79.3133)">
+                    <g transform="matrix(0.836337,0.560537,-0.852412,0.535776,727.238,104.571)">
+                        <rect x="442.193" y="760.516" width="11.919" height="11.919" style="fill:none;stroke:black;stroke-width:4.3px;"/>
+                    </g>
+                    <g transform="matrix(0.836337,0.560537,-0.852412,0.535776,727.238,112.128)">
+                        <path d="M442.193,765.798L442.193,772.435L454.112,772.435L454.112,760.516L447.224,760.516" style="fill:none;stroke:black;stroke-width:4.3px;"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

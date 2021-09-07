@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="Mail---Outline--Rounded-" serif:id="Mail - Outline (Rounded)" transform="matrix(2.3345,0,0,2.4655,-42.8155,-59.8653)">
+        <g transform="matrix(1,0,0,0.85804,-3.40668,8.07674)">
+            <path d="M230.36,73.02C230.36,64.12 223.813,56.894 215.748,56.894L47.066,56.894C39.001,56.894 32.453,64.12 32.453,73.02L32.453,206.775C32.453,215.675 39.001,222.9 47.066,222.9L215.748,222.9C223.813,222.9 230.36,215.675 230.36,206.775L230.36,73.02Z" style="fill:none;stroke:white;stroke-width:17.64px;"/>
+        </g>
+        <g transform="matrix(1,0,0,0.804398,-0.439754,12.4199)">
+            <path d="M40.48,63.496C40.48,63.496 86.985,119.268 112.932,145.076C123.545,155.632 133.792,155.609 144.376,145.024C170.187,119.21 216.4,63.496 216.4,63.496" style="fill:none;stroke:white;stroke-width:17.5px;"/>
+        </g>
+        <g transform="matrix(1,0,0,-1,-0.439754,260.232)">
+            <path d="M44.823,67.839L109.152,132.168" style="fill:none;stroke:white;stroke-width:16.37px;"/>
+            <g transform="matrix(-1,0,0,1,256.88,0)">
+                <path d="M48.393,71.409L107.75,130.767" style="fill:none;stroke:white;stroke-width:16.37px;"/>
+            </g>
+        </g>
+    </g>
+</svg>

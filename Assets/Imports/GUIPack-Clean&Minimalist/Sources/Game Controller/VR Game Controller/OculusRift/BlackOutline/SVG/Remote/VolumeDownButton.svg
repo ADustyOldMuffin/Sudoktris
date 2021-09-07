@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 150 54" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-150,-198)">
+        <g transform="matrix(3.33333,0,0,3.33333,25,-58.3333)">
+            <g id="VolumeDownButton" transform="matrix(0.741969,0,0,0.374925,-2321.04,-717.673)">
+                <path d="M3232.49,2127.61C3232.49,2126.93 3232.21,2126.38 3231.86,2126.38L3186.32,2126.38C3185.97,2126.38 3185.7,2126.93 3185.7,2127.61L3185.7,2154.16C3185.7,2154.84 3185.97,2155.4 3186.32,2155.4L3231.86,2155.4C3232.21,2155.4 3232.49,2154.84 3232.49,2154.16L3232.49,2127.61Z" style="fill:none;stroke:black;stroke-width:3.18px;"/>
+            </g>
+        </g>
+    </g>
+</svg>

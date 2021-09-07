@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-125,-125)">
+        <g transform="matrix(3.33333,0,0,3.33333,25,-58.3333)">
+            <g id="HomeButton" transform="matrix(1.75219,0,0,1.75219,-3412.14,-427.569)">
+                <g transform="matrix(-0.516488,0,0,0.516488,2819.41,36.491)">
+                    <circle cx="1622.12" cy="495.733" r="27.541" style="fill:none;stroke:black;stroke-width:2.06px;"/>
+                </g>
+                <g transform="matrix(0.648486,0,0,0.536827,631.355,-52.9744)">
+                    <path d="M2091.59,643.607C2091.59,641.258 2090.01,639.351 2088.06,639.351L2076.24,639.351C2074.3,639.351 2072.72,641.258 2072.72,643.607C2072.72,645.955 2074.3,647.862 2076.24,647.862L2088.06,647.862C2090.01,647.862 2091.59,645.955 2091.59,643.607Z" style="fill:none;stroke:black;stroke-width:2.05px;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

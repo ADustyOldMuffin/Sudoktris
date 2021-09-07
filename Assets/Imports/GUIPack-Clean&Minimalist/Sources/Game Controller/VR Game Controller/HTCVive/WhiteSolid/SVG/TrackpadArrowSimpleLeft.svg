@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 400 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g transform="matrix(1,0,0,1,-50,-154)">
+        <g transform="matrix(4.16667,0,0,4.16667,0,0)">
+            <g transform="matrix(1,0,0,1,-1789.19,-61.7133)">
+                <g id="TrackpadArrowSimpleLeft">
+                    <path id="Trackpad" d="M1849.19,104.163C1872.67,104.163 1891.74,123.229 1891.74,146.713C1891.74,170.197 1872.67,189.263 1849.19,189.263C1825.71,189.263 1806.64,170.197 1806.64,146.713C1806.64,123.229 1825.71,104.163 1849.19,104.163ZM1823.84,152.963L1817.58,146.713L1823.84,140.463C1824.31,139.995 1824.31,139.235 1823.84,138.767C1823.37,138.298 1822.61,138.298 1822.14,138.767L1815.06,145.84C1814.82,146.081 1814.7,146.398 1814.71,146.713C1814.7,147.029 1814.82,147.346 1815.06,147.587L1822.14,154.66C1822.61,155.128 1823.37,155.128 1823.84,154.66C1824.31,154.191 1824.31,153.432 1823.84,152.963Z" style="fill:white;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

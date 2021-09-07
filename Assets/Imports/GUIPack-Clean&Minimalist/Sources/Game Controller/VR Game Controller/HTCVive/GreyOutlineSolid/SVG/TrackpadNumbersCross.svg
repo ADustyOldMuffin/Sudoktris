@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 400 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-50,-154)">
+        <g transform="matrix(4.16667,0,0,4.16667,0,0)">
+            <g id="TrackpadNumbersCross" transform="matrix(1,0,0,1,-679.858,-299.855)">
+                <g transform="matrix(0.362742,0,0,0.362742,573.933,186.712)">
+                    <circle cx="457.421" cy="546.237" r="113.599" style="fill:rgb(199,199,199);"/>
+                    <clipPath id="_clip1">
+                        <circle cx="457.421" cy="546.237" r="113.599"/>
+                    </clipPath>
+                    <g clip-path="url(#_clip1)">
+                        <g transform="matrix(2.75678,0,0,2.75678,-1596.98,-452.015)">
+                            <g transform="matrix(0.719731,0.719731,-0.719731,0.719731,53.0478,-719.165)">
+                                <path d="M1232.76,229.281L1232.76,311.047" style="fill:none;stroke:black;stroke-width:2.62px;"/>
+                            </g>
+                            <g transform="matrix(0.719731,0.719731,-0.719731,0.719731,49.7159,-715.761)">
+                                <path d="M1190.34,265.779L1272.38,265.779" style="fill:none;stroke:black;stroke-width:2.62px;"/>
+                            </g>
+                        </g>
+                    </g>
+                    <circle cx="457.421" cy="546.237" r="113.599" style="fill:none;stroke:black;stroke-width:7.35px;"/>
+                </g>
+                <g id="_-1---Art-Text-" serif:id="(1) (Art Text)" transform="matrix(0.327864,0,0,0.327864,377.932,191.987)">
+                    <text x="1091.11px" y="521.638px" style="font-family:'Vegur-Bold', 'Vegur';font-weight:700;font-size:48.801px;">1</text>
+                </g>
+                <g id="_-3---Art-Text-" serif:id="(3) (Art Text)" transform="matrix(0.327864,0,0,0.327864,378.116,244.496)">
+                    <text x="1091.11px" y="521.638px" style="font-family:'Vegur-Bold', 'Vegur';font-weight:700;font-size:48.801px;">3</text>
+                </g>
+                <g id="_-2---Art-Text-" serif:id="(2) (Art Text)" transform="matrix(0.327864,0,0,0.327864,351.18,219.236)">
+                    <text x="1091.11px" y="521.638px" style="font-family:'Vegur-Bold', 'Vegur';font-weight:700;font-size:48.801px;">2</text>
+                </g>
+                <g id="_-4---Art-Text-" serif:id="(4) (Art Text)" transform="matrix(0.327864,0,0,0.327864,404.638,219.132)">
+                    <text x="1091.11px" y="521.638px" style="font-family:'Vegur-Bold', 'Vegur';font-weight:700;font-size:48.801px;">4</text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

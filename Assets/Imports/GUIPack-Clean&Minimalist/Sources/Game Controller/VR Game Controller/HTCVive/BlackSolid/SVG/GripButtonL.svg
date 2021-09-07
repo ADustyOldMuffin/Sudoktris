@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 300 650" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g transform="matrix(1,0,0,1,-100,-29)">
+        <g transform="matrix(4.16667,0,0,4.16667,0,0)">
+            <g transform="matrix(1,0,0,1,-1045.49,-316.857)">
+                <g id="GripButtonL">
+                    <path d="M1137.09,359.357C1137.09,341.916 1122.93,327.757 1105.49,327.757C1088.05,327.757 1073.89,341.916 1073.89,359.357L1073.89,444.357C1073.89,461.797 1088.05,475.957 1105.49,475.957C1122.93,475.957 1137.09,461.797 1137.09,444.357L1137.09,359.357ZM1102.57,389.237L1097.73,389.237L1097.73,414.477L1113.25,414.477L1113.25,410.368L1102.57,410.368L1102.57,389.237Z" style="fill:rgb(59,59,59);"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

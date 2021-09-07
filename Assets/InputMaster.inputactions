@@ -1,0 +1,102 @@
+{
+    "name": "InputMaster",
+    "maps": [
+        {
+            "name": "PlayerActions",
+            "id": "e6bf136a-e822-412e-9277-e062829224de",
+            "actions": [
+                {
+                    "name": "SelectLocation",
+                    "type": "PassThrough",
+                    "id": "e20415eb-ed06-4c8d-9707-ec66dee714fc",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Select",
+                    "type": "Button",
+                    "id": "2dffe0b2-d911-4587-87d6-961a14a12b8e",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "1664f91a-18f2-4614-ae3b-2b284fe0b214",
+                    "path": "<Mouse>/position",
+                    "interactions": "Press(behavior=2)",
+                    "processors": "",
+                    "groups": "PC",
+                    "action": "SelectLocation",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "a1719498-f2d2-4772-b314-fddc6d9fbb73",
+                    "path": "<Touchscreen>/primaryTouch/position",
+                    "interactions": "Press(behavior=2)",
+                    "processors": "",
+                    "groups": "Mobile",
+                    "action": "SelectLocation",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "48980fd7-4232-439f-ae10-fcd48dfb4d7a",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "Press(behavior=2)",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Select",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "5817945f-57f4-4f90-aeaa-26c9258181e0",
+                    "path": "<Touchscreen>/primaryTouch/tap",
+                    "interactions": "Press(behavior=2)",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Select",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": [
+        {
+            "name": "PC",
+            "bindingGroup": "PC",
+            "devices": [
+                {
+                    "devicePath": "<Mouse>",
+                    "isOptional": false,
+                    "isOR": false
+                },
+                {
+                    "devicePath": "<Keyboard>",
+                    "isOptional": false,
+                    "isOR": false
+                }
+            ]
+        },
+        {
+            "name": "Mobile",
+            "bindingGroup": "Mobile",
+            "devices": [
+                {
+                    "devicePath": "<Touchscreen>",
+                    "isOptional": false,
+                    "isOR": false
+                }
+            ]
+        }
+    ]
+}
